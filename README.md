@@ -1,8 +1,6 @@
-# search_google_trends
+# 入力したキーワードに関連したGoogleトレンドを取得するプログラム。
 
 ## Overview
-入力したキーワードに関連したGoogleトレンドを取得するプログラム。
-背景
 pythonを初めてさわるので、お試しだが自分が使おたくなるようなモノを作成したかった。
 
 ## Description
